@@ -13,3 +13,4 @@ def loop_message_n_times(string, num)
   until counter == number do
     puts string
   end
+end
